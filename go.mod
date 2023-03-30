@@ -1,3 +1,3 @@
-module guia-0-agustinfreda
+module untref.agus.guia0
 
 go 1.20

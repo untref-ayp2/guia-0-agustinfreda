@@ -12,7 +12,7 @@
 - Opción 4
 3. Escribir una función que reciba una lista de enteros y devuelva el menor y el mayor de la lista
 
-<h4>Estructuras repetitivas</h4>
+<h4>Estructuras repetitivas</h4> [OK]
 
 1. Escribir una función que recibe un número entero n, no negativo, y devuelve su factorial.
 2. Escribir una función que recibe dos enteros: a y b y devuelve el producto. Para el cálculo, utilizar sumas sucesivas.
