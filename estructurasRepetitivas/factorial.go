@@ -1,6 +1,6 @@
 package estructurasRepetitivas
 
-
+// Factorial: dado un numero entero, devuelve su factorial
 func Factorial(numero int) int{
 	factorial := 1
 
